@@ -1,0 +1,43 @@
+<!-- 7 group * 4 cau =28-->
+<single_passage>
+<group>
+		<group_content></group_content>
+		<question>
+			<cau>1</cau>
+			<optiona>The promotion of a coworker</optiona>
+			<optionb>The opening of a new banquet facility</optionb>
+			<optionc>The anniversary of the hotel</optionc>
+			<optiond>The retirement of a colleague</optiond>
+			<key>a</key>
+		</question>
+		
+		<question>
+			<cau>1</cau>
+			<optiona>The promotion of a coworker</optiona>
+			<optionb>The opening of a new banquet facility</optionb>
+			<optionc>The anniversary of the hotel</optionc>
+			<optiond>The retirement of a colleague</optiond>
+			<key>a</key>
+		</question>
+		
+		<question>
+			<cau>1</cau>
+			<optiona>The promotion of a coworker</optiona>
+			<optionb>The opening of a new banquet facility</optionb>
+			<optionc>The anniversary of the hotel</optionc>
+			<optiond>The retirement of a colleague</optiond>
+			<key>a</key>
+		</question>
+		
+		
+	</group>
+	
+	<group>
+	
+	</group>
+	<group>
+	
+	</group>
+	
+	
+</single_passage>

@@ -1,0 +1,63 @@
+<!--30 cau-->
+<QR>
+	<question>
+		<cau>1</cau>
+		<audio>1.mp3</audio>
+		<content>When can i call you?</content>
+		<optiona>Tomorrow morning is a good time</optiona>
+		<optionb>Most people just call me Maria</optionb>
+		<optionc>My office is the best place to talk</optionc>
+		<key>a</key>
+	</question>
+	
+	<question>
+		<cau>2</cau>
+		<audio>2.mp3</audio>
+		<content>Are you almost ready for the meeting?</content>
+		<optiona>I met him at the reception last night</optiona>
+		<optionb>No, it’s in the big conference room</optionb>
+		<optionc>Yes, I just have to finish typing these notes</optionc>
+		<key>a</key>
+	</question>
+	
+	<question>
+		<cau>3</cau>
+		<audio>3.mp3</audio>
+		<content>Why did Ms. Chen call a meeting today?</content>
+		<optiona>It’s today</optiona>
+		<optionb>At 2:30, I think</optionb>
+		<optionc>Because we have to discuss the budget</optionc>
+		<key>c</key>
+	</question>
+	
+	<question>
+		<cau>4</cau>
+		<audio>4.mp3</audio>
+		<content>Do you know what time the offices close?</content>
+		<optiona>I think everyone leaves by 5:30</optiona>
+		<optionb>Yes, the offices are closed</optionb>
+		<optionc>You really should buy some new clothes</optionc>
+		<key>a</key>
+	</question>
+	
+	<question>
+		<cau>5</cau>
+		<audio>5.mp3</audio>
+		<content>Whose computer can I use?</content>
+		<optiona>Ms. Hoffman’s</optiona>
+		<optionb>The blue one</optionb>
+		<optionc>Sorry, I need it now</optionc>
+		<key>a</key>
+	</question>
+	
+	<question>
+		<cau>6</cau>
+		<audio>6.mp3</audio>
+		<content>Hello. Uh. Who are you?</content>
+		<optiona>Fine, thank you</optiona>
+		<optionb>The new secretary</optionb>
+		<optionc>Downtown</optionc>
+		<key>a</key>
+	</question>
+	
+</QR>

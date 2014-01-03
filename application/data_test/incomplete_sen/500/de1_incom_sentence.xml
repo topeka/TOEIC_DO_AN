@@ -1,0 +1,53 @@
+<!-- 40 cau-->
+<questions>
+	<question>
+			<cau>1</cau>
+			<content>On weekends the Italian restaurant is often busy ------ hours of the day and night.</content>	
+			<key>d</key>
+			<optiona>all</optiona>
+			<optionb>almost</optionb>
+			<optionc>always</optionc>
+			<optiond>every</optiond>
+
+	</question>
+	<question>
+			<cau>2</cau>
+			<content>Forelli Media Inc. is an internationally ------- marketing firm noted for its success throughout Europe, East Asia, and the Americas.</content>
+			<key>b</key>
+			<optiona>recognized</optiona>
+			<optionb>recognizing</optionb>
+			<optionc>recognize</optionc>
+			<optiond>recognizes</optiond>
+			
+	</question>
+	<question>
+			<cau>3</cau>
+			<content>More than 100 state-owned companies still remain ------- for privatization, according to the Privatization Agency.</content>
+			<key>c</key>
+			<optiona>available</optiona>
+			<optionb>cooperative</optionb>
+			<optionc>common</optionc>
+			<optiond>direct</optiond>
+				
+	</question>
+	<question>
+			<cau>4</cau>
+			<content>The Wallace Goldberg Committee of Environmental Awareness unanimously ------- the technical team of Walpole Enterprises for their annual award.</content>
+			<key>d</key>
+			<optiona>select</optiona>
+			<optionb>selecting</optionb>
+			<optionc>selected</optionc>
+			<optiond>was selected</optiond>
+			
+	</question>
+	<question>
+			<cau>5</cau>
+			<content>Patients may hang their coats in the closest ------- the vending machine in the waiting room.</content>
+			<key>a</key>
+			<optiona>between</optiona>
+			<optionb>into</optionb>
+			<optionc>near</optionc>
+			<optiond>until</optiond>
+			
+	</question>
+</questions>

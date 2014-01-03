@@ -1,0 +1,68 @@
+<!-- 4 group * 5 cau =20-->
+<double_passage>
+<group>
+		<group_content>
+		
+		
+		</group_content>
+		<question>
+			<cau>1</cau>
+			<optiona>The promotion of a coworker</optiona>
+			<optionb>The opening of a new banquet facility</optionb>
+			<optionc>The anniversary of the hotel</optionc>
+			<optiond>The retirement of a colleague</optiond>
+			<key>a</key>
+		</question>
+		
+		<question>
+			<cau>1</cau>
+			<optiona>The promotion of a coworker</optiona>
+			<optionb>The opening of a new banquet facility</optionb>
+			<optionc>The anniversary of the hotel</optionc>
+			<optiond>The retirement of a colleague</optiond>
+			<key>a</key>
+		</question>
+		
+		<question>
+			<cau>1</cau>
+			<optiona>The promotion of a coworker</optiona>
+			<optionb>The opening of a new banquet facility</optionb>
+			<optionc>The anniversary of the hotel</optionc>
+			<optiond>The retirement of a colleague</optiond>
+			<key>a</key>
+		</question>
+		
+		<question>
+			<cau>1</cau>
+			<optiona>The promotion of a coworker</optiona>
+			<optionb>The opening of a new banquet facility</optionb>
+			<optionc>The anniversary of the hotel</optionc>
+			<optiond>The retirement of a colleague</optiond>
+			<key>a</key>
+		</question>
+		
+		<question>
+			<cau>1</cau>
+			<optiona>The promotion of a coworker</optiona>
+			<optionb>The opening of a new banquet facility</optionb>
+			<optionc>The anniversary of the hotel</optionc>
+			<optiond>The retirement of a colleague</optiond>
+			<key>a</key>
+		</question>
+		
+		
+	</group>
+	
+	<group>
+	
+	</group>
+	<group>
+	
+	</group>
+	
+	<group>
+	
+	</group>
+	
+	
+</double_passage>
